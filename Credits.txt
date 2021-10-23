@@ -1,0 +1,15 @@
+Credits:
+
+Ship sprites (edited by me): https://www.reddit.com/r/PixelArt/comments/j2io3c/some_spaceshipalien_designs/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+projPlayer2 and projEnemy2.png (edited by me): https://mobile.twitter.com/leroythepixelg/status/1296698569911668736?s=21
+
+Background: https://hdwallpaperim.com/space-pixel-art-horizon-stars/
+
+Font used in intro and end screens: https://www.fontspace.com/lcd-solid-font-f11346
+
+Item sprites (edited by me): https://krukowski.itch.io/free-sci-fi-game-icons?download
+
+projPlayer0, projEnemy0, projPlayer1, projEnemy1 are made by me.
+
+Tool used for editing and creating: Microsoft Paint
